@@ -12,6 +12,9 @@ gem 'bootstrap-sass'
 # Add bCrypt
 gem 'bcrypt'
 
+# Add jquery for Bootstrap
+gem 'jquery-rails'
+
 gem 'rails-controller-testing'
 # Use Puma as the app server
 gem 'puma', '~> 3.12'
